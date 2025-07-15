@@ -1267,7 +1267,6 @@ header.main-header .header-sticky.active{
 }
 
 .our-story-content-body{
-	border-bottom: 1px solid var(--divider-color);
 	margin-bottom: 60px;
 	padding-bottom: 60px;
 }
