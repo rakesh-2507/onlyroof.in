@@ -972,14 +972,14 @@ header.main-header .header-sticky.active{
 	background-size: auto;
 }
 
-.about-image{
-	position: relative;
-	display: flex;
-	justify-content: end;
-	padding-top: 150px;
-	margin-right: 40px;
+.about-image {
+    position: relative;
+    display: flex
+;
+    justify-content: end;
+    padding-top: 30px;
+    margin-right: 35px;
 }
-
 .about-img-1{
 	position: absolute;
 	top: 0;
@@ -1001,7 +1001,7 @@ header.main-header .header-sticky.active{
 .about-img-2 img{
 	border: 10px solid var(--white-color);
 	aspect-ratio: 1 / 1.22;
-	object-fit: cover;
+	object-fit: contain;
 	border-radius: 40px;
 }
 
