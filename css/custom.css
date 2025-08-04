@@ -510,7 +510,7 @@ body{
 }
 
 .logo-img {
-    width: 100px; 
+    width: 100%; 
     height: auto;
 }
 
@@ -4622,7 +4622,7 @@ header.main-header .header-sticky.active{
 	}
 
 	.site-logo{
-		display: none;
+		display: flex;
 	}
 
 	.topbar-contact-info{
